@@ -1,8 +1,12 @@
 <div align="center">
 
-# 🚀 Blue Pencil Strategies
+# 💙 Blue Pencil Strategies ✏️
 
 ### *Empowering Social Impact Through Technology*
+
+**We are here to make a difference**
+
+---
 
 [![Website](https://img.shields.io/badge/Website-bluepencil.com-blue?style=for-the-badge)](https://bluepencil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/bluepencilstrategies)
@@ -20,7 +24,9 @@ Our advisory team brings together **domain experts who are legends in their fiel
 
 ## 🎯 What We Build
 
-### **Tāshi Platform** - AI-Powered Program Management Suite
+### **🚀 Tāshi Platform** - AI-Powered Program Management Suite
+*Visit [tashi.in](https://tashi.in) to see our flagship product*
+
 End-to-end SaaS solution connecting social investors, implementers, and participants with:
 - 📊 Real-time monitoring, AI-powered audits & instant red flags
 - 🤝 Multi-stakeholder program frameworks aligned to global standards
@@ -28,12 +34,17 @@ End-to-end SaaS solution connecting social investors, implementers, and particip
 - 🔍 AI-driven entity resolution managing millions of records
 - 📈 Bespoke dashboards for impact measurement and transparency
 
-### **Mobile Apps for Social Good**
+### **📱 Mobile Apps for Social Good**
 
-| 🌟 **Vayam** | 📓 **Lekha** |
+<div align="center">
+
+| **Vayam** | **Lekha** |
 |:---:|:---:|
+| 🌟 Empowering communities | 📓 Smart record keeping |
 | [<img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play" />](https://play.google.com/store/apps/details?id=com.vayam&hl=en) | [<img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play" />](https://play.google.com/store/apps/details?id=com.bpspl.lekha&hl=en) |
-| Empowering communities | Smart record keeping |
+| *View app icons & details on Play Store* | *View app icons & details on Play Store* |
+
+</div>
 
 ### **Proven Impact at Scale**
 - **474,000+** participants impacted across programs
@@ -64,6 +75,8 @@ As an **AWS partner**, we leverage modern technologies and open-source tools to 
 ---
 
 <div align="center">
+
+### *We are here to make a difference*
 
 *Building technology that transforms lives* 💙✏️
 
