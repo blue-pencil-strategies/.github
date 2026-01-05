@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 Blue Pencil Strategies ✏️
+<img src="BP-logo_absolute-zero_together_Registered.png" alt="Blue Pencil Strategies" height="80">
 
 ### *Empowering Social Impact Through Technology*
 
@@ -24,53 +24,60 @@ Our advisory team brings together **domain experts who are legends in their fiel
 
 ## 🎯 What We Build
 
-### **🚀 Tāshi Platform** - AI-Powered Program Management Suite
+### <img src="Tashi_Peach.png" alt="Tashi" height="30"> **Tāshi Platform** - AI-Powered Program Management Suite | ![DPDP Compliant](https://img.shields.io/badge/DPDP-Compliant-green?style=flat-square)
 *Visit [tashi.in](https://tashi.in) to see our flagship product*
 
 End-to-end SaaS solution connecting social investors, implementers, and participants with:
-- 📊 Real-time monitoring, AI-powered audits & instant red flags
-- 🤝 Multi-stakeholder program frameworks aligned to global standards
-- 📱 Android & web interfaces with smart field controls
-- 🔍 AI-driven entity resolution managing millions of records
-- 📈 Bespoke dashboards for impact measurement and transparency
+- Real-time monitoring, AI-powered audits & instant red flags
+- Multi-stakeholder program frameworks aligned to global standards
+- Android & web interfaces with smart field controls
+- AI-driven entity resolution managing millions of records
+- Bespoke dashboards for impact measurement and transparency
 
-### **📱 Mobile Apps for Social Good**
+### **Mobile Apps for Social Good**
 
 <div align="center">
 
-| **Vayam** | **Lekha** |
+| <img src="vayam logo 512x512.png" alt="Vayam" height="60"><br/>**Vayam** | <img src="lekha-logo-512x512.png" alt="Lekha" height="60"><br/>**Lekha** |
 |:---:|:---:|
-| 🌟 Empowering communities | 📓 Smart record keeping |
+| Digital efficiency for field operations in social development. Streamlines participant onboarding, location-based assessments, and encrypted data collection with real-time performance tracking. | Dynamic platform for engaging with government schemes, capacity building, and career development. Features multilingual design, business planning, resume building, and QR-based participant tracking. |
 | [<img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play" />](https://play.google.com/store/apps/details?id=com.vayam&hl=en) | [<img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play" />](https://play.google.com/store/apps/details?id=com.bpspl.lekha&hl=en) |
-| *View app icons & details on Play Store* | *View app icons & details on Play Store* |
 
 </div>
 
 ### **Proven Impact at Scale**
-- **474,000+** participants impacted across programs
-- **320,000+** COVID vaccine doses administered through Ummeed
-- **200,000+** marginalized youth skilled through Hunar
-- **78,000+** women empowered via Garima
+
+<div align="center">
+
+| <img src="https://framerusercontent.com/images/2gdjRHPT0nA0sV7T5HLRrE4Vs.jpg?scale-down-to=512" alt="Hunaar" height="50"><br/>**Hunaar** | <img src="https://framerusercontent.com/images/78yPUya4kgzouWiSoaIgk4XOufg.jpg?scale-down-to=512" alt="Garima" height="50"><br/>**Garima** | <img src="https://framerusercontent.com/images/Rx7dijWvWDiEMqpvhXBnFKUNmHs.jpg?scale-down-to=512" alt="Ummeed" height="50"><br/>**Ummeed** | <img src="https://framerusercontent.com/images/K8bpKEKJ4hwM49YHlNp2eKSPEY.jpg?scale-down-to=512" alt="Arpan" height="50"><br/>**Arpan** |
+|:---:|:---:|:---:|:---:|
+| **200,000+** marginalized youth skilled | **78,000+** women empowered | **320,000+** COVID vaccine doses administered | **78,000+** women authenticated<br/>**262,900+** food kits distributed |
+
+</div>
+
+**474,000+** total participants impacted across all programs
 
 ## 🛠️ How We Build
+
+<img src="https://framerusercontent.com/images/dfUKebawnosvUZK9cedVx9vCw.png?width=150&height=150" alt="AWS Partner" height="40" align="left">
 
 As an **AWS partner**, we leverage modern technologies and open-source tools to build scalable, cloud-native solutions. Our team uses **AI coding tools** to accelerate development, maintains functional **CI/CD pipelines**, and spins up infrastructure via **IaC** (Infrastructure as Code). We combine engineering excellence with social impact focus.
 
 ## 🌱 Why Join Us?
 
-✨ **Make Real Impact** - Your code directly helps millions of people across India  
-🚀 **Cutting-Edge Tech** - Work with AI/ML, cloud-native architectures, and modern tooling  
-🧠 **Solve Hard Problems** - Build tech for complex, high-stakes social programs  
-🌏 **Mission-Driven** - Technology that creates measurable, lasting change  
-🎯 **Learn from Legends** - Collaborate with domain experts at the top of their fields
+**Make Real Impact** - Your code directly helps millions of people across India  
+**Cutting-Edge Tech** - Work with AI/ML, cloud-native architectures, and modern tooling  
+**Solve Hard Problems** - Build tech for complex, high-stakes social programs  
+**Mission-Driven** - Technology that creates measurable, lasting change  
+**Learn from Legends** - Collaborate with domain experts at the top of their fields
 
 ## 📬 Let's Connect!
 
 **Interested in joining our team?** We're always looking for passionate engineers who want to use their skills for social good.
 
-- 🌐 Visit us: [bluepencil.com](https://bluepencil.com)
-- 💼 Connect: [LinkedIn](https://www.linkedin.com/company/bluepencilstrategies)
-- 🚀 Explore: [tashi.in](https://tashi.in)
+- Visit us: [bluepencil.com](https://bluepencil.com)
+- Connect: [LinkedIn](https://www.linkedin.com/company/bluepencilstrategies)
+- Explore: [tashi.in](https://tashi.in)
 
 ---
 
@@ -78,6 +85,6 @@ As an **AWS partner**, we leverage modern technologies and open-source tools to 
 
 ### *We are here to make a difference*
 
-*Building technology that transforms lives* 💙✏️
+*Building technology that transforms lives*
 
 </div>
