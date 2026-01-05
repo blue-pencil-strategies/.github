@@ -24,9 +24,8 @@ Our advisory team brings together **domain experts who are legends in their fiel
 
 ## 🎯 What We Build
 
-### <img src="Tashi_Peach.png" alt="Tashi" height="30"> **Tāshi Platform** - AI-Powered Program Management Suite
-*Visit [tashi.in](https://tashi.in) to see our flagship product*  
-**DPDP Compliant**
+### <img src="Tashi_Peach.png" alt="Tashi" height="30"> **Tāshi Platform** - AI-Powered Program Management Suite | ![DPDP Compliant](https://img.shields.io/badge/DPDP-Compliant-green?style=flat-square)
+*Visit [tashi.in](https://tashi.in) to see our flagship product*
 
 End-to-end SaaS solution connecting social investors, implementers, and participants with:
 - Real-time monitoring, AI-powered audits & instant red flags
@@ -60,7 +59,7 @@ End-to-end SaaS solution connecting social investors, implementers, and particip
 
 ## 🛠️ How We Build
 
-<img src="https://framerusercontent.com/images/dfUKebawnosvUZK9cedVx9vCw.png?width=150&height=150" alt="AWS Partner" height="40" align="left" style="margin-right: 10px;">
+<img src="https://framerusercontent.com/images/dfUKebawnosvUZK9cedVx9vCw.png?width=150&height=150" alt="AWS Partner" height="40" align="left">
 
 As an **AWS partner**, we leverage modern technologies and open-source tools to build scalable, cloud-native solutions. Our team uses **AI coding tools** to accelerate development, maintains functional **CI/CD pipelines**, and spins up infrastructure via **IaC** (Infrastructure as Code). We combine engineering excellence with social impact focus.
 
