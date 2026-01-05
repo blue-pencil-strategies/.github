@@ -25,7 +25,8 @@ Our advisory team brings together **domain experts who are legends in their fiel
 ## 🎯 What We Build
 
 ### <img src="Tashi_Peach.png" alt="Tashi" height="30"> **Tāshi Platform** - AI-Powered Program Management Suite
-*Visit [tashi.in](https://tashi.in) to see our flagship product* | **DPDP Compliant**
+*Visit [tashi.in](https://tashi.in) to see our flagship product*  
+**DPDP Compliant**
 
 End-to-end SaaS solution connecting social investors, implementers, and participants with:
 - Real-time monitoring, AI-powered audits & instant red flags
